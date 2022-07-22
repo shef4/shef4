@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shef4
-- 👀 I’m interested in Quantum Computing, Machine Learning, and Full-Stack Web Development
+- 👀 I’m interested in Quantum Computing, Machine Learning, and Full-Stack Development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/sefunmi-shef-ashiru-164299111/
